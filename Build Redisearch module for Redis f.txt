@@ -1,0 +1,11 @@
+Build Redisearch module for Redis from source code:
+
+Step1:First upadte server using below cammonds
+      sudo apt update 
+      sudo apt install build-essential g++ make git 
+      sudo apt install redis-server
+
+
+
+
+worked as a support team of the project. im monitoring the servers or portals and rise tikets according the alerts of dynatrace tool
